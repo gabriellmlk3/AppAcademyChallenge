@@ -55,11 +55,6 @@ public class CSVReader {
         rankEstate();
         convertToCSV();
         getInstrutor();
-        
-        
-
-
-
     }
    
     public void read(BufferedReader reader) throws IOException{        
